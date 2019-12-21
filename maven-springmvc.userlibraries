@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.8.0">
+    <archive path="C:/Users/LB/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.8.0/jackson-annotations-2.8.0.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-core:2.8.1">
+    <archive path="C:/Users/LB/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.8.1/jackson-core-2.8.1.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-databind:2.8.1">
+    <archive path="C:/Users/LB/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.8.1/jackson-databind-2.8.1.jar" />
+  </library>
+  <library name="Maven: commons-beanutils:commons-beanutils:1.8.0">
+    <archive path="C:/Users/LB/.m2/repository/commons-beanutils/commons-beanutils/1.8.0/commons-beanutils-1.8.0.jar" />
+  </library>
+  <library name="Maven: commons-collections:commons-collections:3.2.1">
+    <archive path="C:/Users/LB/.m2/repository/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar" />
+  </library>
+  <library name="Maven: commons-fileupload:commons-fileupload:1.3.1">
+    <archive path="C:/Users/LB/.m2/repository/commons-fileupload/commons-fileupload/1.3.1/commons-fileupload-1.3.1.jar" />
+  </library>
+  <library name="Maven: commons-io:commons-io:2.2">
+    <archive path="C:/Users/LB/.m2/repository/commons-io/commons-io/2.2/commons-io-2.2.jar" />
+  </library>
+  <library name="Maven: commons-lang:commons-lang:2.5">
+    <archive path="C:/Users/LB/.m2/repository/commons-lang/commons-lang/2.5/commons-lang-2.5.jar" />
+  </library>
+  <library name="Maven: commons-logging:commons-logging:1.1.1">
+    <archive path="C:/Users/LB/.m2/repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar" />
+  </library>
+  <library name="Maven: javax.servlet:javax.servlet-api:3.1.0">
+    <archive path="C:/Users/LB/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar" />
+  </library>
+  <library name="Maven: javax.servlet.jsp:jsp-api:2.2">
+    <archive path="C:/Users/LB/.m2/repository/javax/servlet/jsp/jsp-api/2.2/jsp-api-2.2.jar" />
+  </library>
+  <library name="Maven: javax.servlet:jstl:1.2">
+    <archive path="C:/Users/LB/.m2/repository/javax/servlet/jstl/1.2/jstl-1.2.jar" />
+  </library>
+  <library name="Maven: junit:junit:3.8.1">
+    <archive path="C:/Users/LB/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar" />
+  </library>
+  <library name="Maven: log4j:log4j:1.2.17">
+    <archive path="C:/Users/LB/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar" />
+  </library>
+  <library name="Maven: mysql:mysql-connector-java:5.1.35">
+    <archive path="C:/Users/LB/.m2/repository/mysql/mysql-connector-java/5.1.35/mysql-connector-java-5.1.35.jar" />
+  </library>
+  <library name="Maven: net.sf.ezmorph:ezmorph:1.0.6">
+    <archive path="C:/Users/LB/.m2/repository/net/sf/ezmorph/ezmorph/1.0.6/ezmorph-1.0.6.jar" />
+  </library>
+  <library name="Maven: net.sf.json-lib:json-lib:jdk15:2.4">
+    <archive path="C:/Users/LB/.m2/repository/net/sf/json-lib/json-lib/2.4/json-lib-2.4-jdk15.jar" />
+  </library>
+  <library name="Maven: org.apache.commons:commons-lang3:3.4">
+    <archive path="C:/Users/LB/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-api:1.7.21">
+    <archive path="C:/Users/LB/.m2/repository/org/slf4j/slf4j-api/1.7.21/slf4j-api-1.7.21.jar" />
+  </library>
+  <library name="Maven: org.slf4j:slf4j-log4j12:1.7.21">
+    <archive path="C:/Users/LB/.m2/repository/org/slf4j/slf4j-log4j12/1.7.21/slf4j-log4j12-1.7.21.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-aop:4.3.1.RELEASE">
+    <archive path="C:/Users/LB/.m2/repository/org/springframework/spring-aop/4.3.1.RELEASE/spring-aop-4.3.1.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-beans:4.3.1.RELEASE">
+    <archive path="C:/Users/LB/.m2/repository/org/springframework/spring-beans/4.3.1.RELEASE/spring-beans-4.3.1.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-context:4.3.1.RELEASE">
+    <archive path="C:/Users/LB/.m2/repository/org/springframework/spring-context/4.3.1.RELEASE/spring-context-4.3.1.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-core:4.3.1.RELEASE">
+    <archive path="C:/Users/LB/.m2/repository/org/springframework/spring-core/4.3.1.RELEASE/spring-core-4.3.1.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-expression:4.3.1.RELEASE">
+    <archive path="C:/Users/LB/.m2/repository/org/springframework/spring-expression/4.3.1.RELEASE/spring-expression-4.3.1.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-web:4.3.1.RELEASE">
+    <archive path="C:/Users/LB/.m2/repository/org/springframework/spring-web/4.3.1.RELEASE/spring-web-4.3.1.RELEASE.jar" />
+  </library>
+  <library name="Maven: org.springframework:spring-webmvc:4.3.1.RELEASE">
+    <archive path="C:/Users/LB/.m2/repository/org/springframework/spring-webmvc/4.3.1.RELEASE/spring-webmvc-4.3.1.RELEASE.jar" />
+  </library>
+  <library name="com.google.gwt:gwt-servlet.jar:2.3.2-redhat">
+    <archive path="D:/laiyinweb/lib/gwt-servlet.jar-2.3.2-redhat.jar" />
+  </library>
+  <library name="mysql-connector-java-5.1.39-bin">
+    <archive path="D:/laiyinpage/tools/mysql-connector-java-5.1.39-bin.jar" />
+  </library>
+</eclipse-userlibraries>
+

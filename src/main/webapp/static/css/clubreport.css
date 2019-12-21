@@ -1,0 +1,30 @@
+body{
+    background-color: antiquewhite;
+}
+.span-text{
+    color: black;
+}
+.span-num{
+    color: cornflowerblue;
+}
+#main{
+    margin: 0 auto;
+}
+#major-text{
+    margin: 0 auto;
+    text-align: center;
+}
+#gender{
+    margin: 0 auto;
+}
+#gender-text{
+    margin: 0 auto;
+    text-align: center;
+}
+#dept{
+    margin:0 auto;
+}
+#dept-text{
+    margin: 0 auto;
+    text-align: center;
+}

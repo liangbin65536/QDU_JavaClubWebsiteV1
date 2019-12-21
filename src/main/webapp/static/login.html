@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Java兴趣社团成员管理平台</title>
+    <link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/login.css"/>
+    <script src="js/lib/jquery-2.1.3.min.js"></script>
+    <script>
+        $(document).ready(function () {
+
+            $("#loginbtn").click(function () {
+                alert("click");
+                var id = $("#id").val();
+                var pw = $("#password").val();
+                $.ajax({
+                    url:"login.do",
+                    type:"post",
+                    contentType:"application/json",
+                    data:{"userid":id,"password":pw},
+                    dataType:"json",
+                    success: function (data) {
+                        if (data!=null && data!=""){
+                            if (data.result.trim()=="wrong"){
+                                alert("账号不存在或密码错误!");
+                            }
+                            else if(data.result.trim()=="banned") {
+                                alert("没有权限,请联系管理员!");
+                            }
+                            else if (data.result.trim()=="success"){
+                                window.location.href = 'index.jsp?id='+id;
+                            }
+                        }
+
+
+                    }
+                })
+
+            })
+
+        })
+
+
+    </script>
+</head>
+<body>
+
+<div id="particles-js"></div>
+
+    <div id="test">
+
+        <div id="head-title">
+            <span class="glyphicon glyphicon-user"> Java兴趣社团成员管理平台</span>
+        </div>
+
+        <br><br>
+
+        <form role="form-horizontal">
+
+
+                <input type="text" class="form-control" id="id" placeholder="请输入管理员账号">
+
+
+
+
+                <input type="password" class="form-control" id="password" placeholder="请输入密码">
+
+
+
+                <button type="submit" class="btn btn-info" id="loginbtn">登 录</button>
+
+        </form>
+    </div>
+
+
+    <script src="js/particles.min.js"></script>
+    <script src="js/login.js"></script>
+</body>
+</html>
